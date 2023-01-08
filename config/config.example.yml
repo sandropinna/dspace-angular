@@ -1,4 +1,4 @@
-# NOTE: will log all redux actions and transfers in console
+# NOTE: will log all redux actions and transfers in console Sardegna Ricerche
 debug: false
 
 # Angular Universal server settings
