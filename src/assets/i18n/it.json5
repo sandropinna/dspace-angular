@@ -3452,7 +3452,7 @@
   "home.title": "Home",
 
   // "home.top-level-communities.head": "Communities in DSpace Cris",
-  "home.top-level-communities.head": "DSpace Cris Communities",
+  "home.top-level-communities.head": "DSpace Communities",
 
   // "home.top-level-communities.help": "Search for a collection",
   "home.top-level-communities.help": "Cerca una collection",
@@ -5072,6 +5072,20 @@
 
   // "menu.section.browse_community_by_title": "By Title",
   "menu.section.browse_community_by_title": "Per titolo",
+  
+  "menu.section.browse_global": "Tutto DSpace",
+
+  "menu.section.browse_global_by_author": "Per autore",
+
+  "menu.section.browse_global_by_dateissued": "Per data di pubblicazione",
+
+  "menu.section.browse_global_by_subject": "Per argomento",
+
+  "menu.section.browse_global_by_title": "per titolo",
+
+  "menu.section.browse_global_communities_and_collections": "Communities & Collezioni",
+  
+  
 
   // "menu.section.explore_infrastructure": "Infrastructure",
   "menu.section.explore_infrastructure": "Infrastruttura",
@@ -9937,6 +9951,6 @@
 
   // "curation-task.task.ocrclean.label": "Remove all metadata bundles and uploaded ocr created by a previous upload to the ocr server"
   "curation-task.task.ocrclean.label": "Rimuovi tutti i metadata bundles and tutti gli OCR caricati in precedenza sul server OCR",
-
+  "home.recent-submissions.head": "Inserimenti recenti",
 
 }
