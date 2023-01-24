@@ -53,8 +53,8 @@ import { MenuItemType } from '../shared/menu/menu-item-type.model';
           menu: {
             public: [{
               id: 'statistics_community_:id',
-              active: true,
-              visible: true,
+              active: false,
+              visible: false,
               model: {
                 type: MenuItemType.LINK,
                 text: 'menu.section.statistics',
