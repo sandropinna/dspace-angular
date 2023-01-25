@@ -27,7 +27,7 @@
   "500.page-internal-server-error": "Servizio non disponibile",
 
   // "500.help": "The server is temporarily unable to service your request due to maintenance downtime or capacity problems. Please try again later.",
-  "500.help": "Il server non Ã¨ temporaneamente in grado di soddisfare la richiesta a causa di tempi di inattivitÃ  di manutenzione o problemi di capacitÃ . Riprova piÃ¹ tardi.",
+  "500.help": "Il server non è temporaneamente in grado di soddisfare la richiesta a causa di tempi di inattivitÃ  di manutenzione o problemi di capacitÃ . Riprova piÃ¹ tardi.",
 
   // "500.link.home-page": "Take me to the home page",
   "500.link.home-page": "Torna alla home page",
@@ -43,7 +43,7 @@
   "404.page-not-found": "Pagina non trovata",
 
   // "410.gone-handle": "This object is no longer available",
-  "410.gone-handle": "Questa risorsa non Ã¨ piÃ¹ disponibile",
+  "410.gone-handle": "Questa risorsa non è più disponibile",
 
   // "410.link.home-page": "Take me to the home page",
   "410.link.home-page": "Torna alla home page",
@@ -174,7 +174,7 @@
   "admin.institution.new.submit": "Invia",
 
   // "admin.institution.new.success": "The new institution was successfully created",
-  "admin.institution.new.success": "La nuova istituzione Ã¨ stata creata con successo",
+  "admin.institution.new.success": "La nuova istituzione è stata creata con successo",
 
   // "admin.institution.new.title": "Create Institution",
   "admin.institution.new.title": "Crea istituzione",
@@ -187,13 +187,13 @@
   "admin.institution.explore.header": "Esplora le istituzioni",
 
   // "admin.institution.explore.entities": "Entities",
-  "admin.institution.explore.entities": "EntitÃ ",
+  "admin.institution.explore.entities": "Entità ",
 
   // "admin.institution.explore.name": "Institution name",
   "admin.institution.explore.name": "Nome dell'istituzione",
 
   // "admin.institution.explore.no-entities": "No available entities",
-  "admin.institution.explore.no-entities": "Nessuna entitÃ  disponibile",
+  "admin.institution.explore.no-entities": "Nessuna entità  disponibile",
 
   // "admin.institution.explore.no-roles": "No available roles",
   "admin.institution.explore.no-roles": "Nessun ruolo disponibile",
@@ -213,7 +213,7 @@
   "admin.registries.bitstream-formats.create.breadcrumbs": "Formato del bitstream",
 
   // "admin.registries.bitstream-formats.create.failure.content": "An error occurred while creating the new bitstream format.",
-  "admin.registries.bitstream-formats.create.failure.content": "Si Ã¨ verificato un errore durante la creazione del nuovo formato bitstream.",
+  "admin.registries.bitstream-formats.create.failure.content": "Si è verificato un errore durante la creazione del nuovo formato bitstream.",
 
   // "admin.registries.bitstream-formats.create.failure.head": "Failure",
   "admin.registries.bitstream-formats.create.failure.head": "Fallimento",
@@ -225,7 +225,7 @@
   "admin.registries.bitstream-formats.create.new": "Aggiungere un nuovo formato bitstream",
 
   // "admin.registries.bitstream-formats.create.success.content": "The new bitstream format was successfully created.",
-  "admin.registries.bitstream-formats.create.success.content": "Il nuovo formato bitstream Ã¨ stato creato correttamente.",
+  "admin.registries.bitstream-formats.create.success.content": "Il nuovo formato bitstream è stato creato correttamente.",
 
   // "admin.registries.bitstream-formats.create.success.head": "Success",
   "admin.registries.bitstream-formats.create.success.head": "Successo",
@@ -264,7 +264,7 @@
   "admin.registries.bitstream-formats.edit.extensions.placeholder": "Inserisci un'estensione di file senza il punto",
 
   // "admin.registries.bitstream-formats.edit.failure.content": "An error occurred while editing the bitstream format.",
-  "admin.registries.bitstream-formats.edit.failure.content": "Si Ã¨ verificato un errore durante la modifica del formato bitstream.",
+  "admin.registries.bitstream-formats.edit.failure.content": "Si è verificato un errore durante la modifica del formato bitstream.",
 
   // "admin.registries.bitstream-formats.edit.failure.head": "Failure",
   "admin.registries.bitstream-formats.edit.failure.head": "Fallimento",
@@ -279,7 +279,7 @@
   "admin.registries.bitstream-formats.edit.internal.label": "Interno",
 
   // "admin.registries.bitstream-formats.edit.mimetype.hint": "The MIME type associated with this format, does not have to be unique.",
-  "admin.registries.bitstream-formats.edit.mimetype.hint": "Non Ã¨ necessario che il tipo MIME associato a questo formato sia univoco.",
+  "admin.registries.bitstream-formats.edit.mimetype.hint": "Non è necessario che il tipo MIME associato a questo formato sia univoco.",
 
   // "admin.registries.bitstream-formats.edit.mimetype.label": "MIME Type",
   "admin.registries.bitstream-formats.edit.mimetype.label": "Tipo MIME",
@@ -388,7 +388,7 @@
   "admin.registries.schema.breadcrumbs": "Metadata Schema",
 
   // "admin.registries.schema.description": "This is the metadata schema for \"{{namespace}}\".",
-  "admin.registries.schema.description": "Questo Ã¨ il Metadata Schema per \"{{namespace}}.",
+  "admin.registries.schema.description": "Questo è il Metadata Schema per \"{{namespace}}.",
 
   // "admin.registries.schema.fields.head": "Schema metadata fields",
   "admin.registries.schema.fields.head": "Campi dei metadati dello schema",
@@ -597,7 +597,7 @@
   "admin.access-control.epeople.form.table.collectionOrCommunity": "collection/Community",
 
   // "admin.access-control.epeople.form.memberOfNoGroups": "This EPerson is not a member of any groups",
-  "admin.access-control.epeople.form.memberOfNoGroups": "Questo EPerson non Ã¨ membro di alcun gruppo",
+  "admin.access-control.epeople.form.memberOfNoGroups": "Questo EPerson non è membro di alcun gruppo",
 
   // "admin.access-control.epeople.form.goToGroups": "Add to groups",
   "admin.access-control.epeople.form.goToGroups": "Aggiungi ai gruppi",
@@ -717,7 +717,7 @@
   "admin.access-control.groups.form.alert.permanent": "Questo gruppo Ã¨ permanente, quindi non puÃ² essere modificato o eliminato. Puoi comunque aggiungere e rimuovere membri del gruppo utilizzando questa pagina.",
 
   // "admin.access-control.groups.form.alert.workflowGroup": "This group canâ€™t be modified or deleted because it corresponds to a role in the submission and workflow process in the \"{{name}}\" {{comcol}}. You can delete it from the <a href='{{comcolEditRolesRoute}}'>\"assign roles\"</a> tab on the edit {{comcol}} page. You can still add and remove group members using this page.",
-  "admin.access-control.groups.form.alert.workflowGroup": "Questo gruppo non puÃ² essere modificato o eliminato perchÃ© corrisponde a un ruolo nella submission e processo del workflow nel \"{{name}}\"  {{comcol}}. Puoi eliminarlo dal Tab <a href='{{comcolEditRolesRoute}}'>\"assegna ruoli\"</a> nella pagina di modifica {{comcol}}. Puoi ancora aggiungere e rimuovere membri del gruppo da questa pagina.",
+  "admin.access-control.groups.form.alert.workflowGroup": "Questo gruppo non può essere modificato o eliminato perchÃ© corrisponde a un ruolo nella submission e processo del workflow nel \"{{name}}\"  {{comcol}}. Puoi eliminarlo dal Tab <a href='{{comcolEditRolesRoute}}'>\"assegna ruoli\"</a> nella pagina di modifica {{comcol}}. Puoi ancora aggiungere e rimuovere membri del gruppo da questa pagina.",
 
   // "admin.access-control.groups.form.head.create": "Create group",
   "admin.access-control.groups.form.head.create": "Crea gruppo",
@@ -867,7 +867,7 @@
   "admin.access-control.groups.form.members-list.no-items": "Nessun EPeople trovato in quella ricerca",
 
   // "admin.access-control.groups.form.subgroups-list.notification.failure": "Something went wrong: \"{{cause}}\"",
-  "admin.access-control.groups.form.subgroups-list.notification.failure": "Qualcosa Ã¨ andato storto: \"{{cause}}\"",
+  "admin.access-control.groups.form.subgroups-list.notification.failure": "Qualcosa è andato storto: \"{{cause}}\"",
 
   // "admin.access-control.groups.form.subgroups-list.head": "Groups",
   "admin.access-control.groups.form.subgroups-list.head": "Gruppi",
@@ -1052,14 +1052,14 @@
   "alert.toggle.hide": "Mostra meno",
 
   // "alert.toggle.show": "Show more",
-  "alert.toggle.show": "Mostra di piÃ¹",
+  "alert.toggle.show": "Mostra di più",
 
 
   // "auth.errors.invalid-user": "Invalid email address or password.",
   "auth.errors.invalid-user": "Indirizzo e-mail o password non validi.",
 
   // "auth.messages.expired": "Your session has expired. Please log in again.",
-  "auth.messages.expired": "La sessione Ã¨ scaduta. Effettua nuovamente l'accesso.",
+  "auth.messages.expired": "La sessione è scaduta. Effettua nuovamente l'accesso.",
 
   // "auth.messages.token-refresh-failed": "Refreshing your session token failed. Please log in again.",
   "auth.messages.token-refresh-failed": "Aggiornamento del token di sessione non riuscito. Effettua nuovamente l'accesso.",
@@ -1095,7 +1095,7 @@
   "bitstream.edit.form.description.label": "Descrizione",
 
   // "bitstream.edit.form.embargo.hint": "The first day from which access is allowed. <b>This date cannot be modified on this form.</b> To set an embargo date for a bitstream, go to the <i>Item Status</i> tab, click <i>Authorizations...</i>, create or edit the bitstream's <i>READ</i> policy, and set the <i>Start Date</i> as desired.",
-  "bitstream.edit.form.embargo.hint": "Si tratta del primo giorno da cui Ã¨ consentito l'accesso. <b>Questa data non puÃ² essere modificata in questo form.</b> Per impostare una data di embargo per un bitstream, vai alla scheda <i>Item Status</i> fare clic su <i>Autorizzazioni... </i>creare o modifica la policy del <i>READ</i> e imposta la <i>Start Date</i> come desiderato.",
+  "bitstream.edit.form.embargo.hint": "Si tratta del primo giorno da cui è consentito l'accesso. <b>Questa data non può essere modificata in questo form.</b> Per impostare una data di embargo per un bitstream, vai alla scheda <i>Item Status</i> fare clic su <i>Autorizzazioni... </i>creare o modifica la policy del <i>READ</i> e imposta la <i>Start Date</i> come desiderato.",
 
   // "bitstream.edit.form.embargo.label": "Embargo until specific date",
   "bitstream.edit.form.embargo.label": "Embargo fino a data specifica",
@@ -1122,7 +1122,7 @@
   "bitstream.edit.form.fileType.hint": "Immagine personale, logo, articolo principale, ecc.",
 
   // "bitstream.edit.form.selectedFormat.hint": "If the format is not in the above list, <b>select \"format not in list\" above</b> and describe it under \"Describe new format\".",
-  "bitstream.edit.form.selectedFormat.hint": "Se il formato non Ã¨ presente nell'elenco precedente, <b>selezionare \"formato  non presente in elenco\"  sopra</b> e descriverlo in \"Descrivi nuovo formato.",
+  "bitstream.edit.form.selectedFormat.hint": "Se il formato non è presente nell'elenco precedente, <b>selezionare \"formato  non presente in elenco\"  sopra</b> e descriverlo in \"Descrivi nuovo formato.",
 
   // "bitstream.edit.form.selectedFormat.label": "Selected Format",
   "bitstream.edit.form.selectedFormat.label": "Formato selezionato",
@@ -1131,7 +1131,7 @@
   "bitstream.edit.form.selectedFormat.unknown": "Formato non presente nell'elenco",
 
   // "bitstream.edit.notifications.error.format.title": "An error occurred saving the bitstream's format",
-  "bitstream.edit.notifications.error.format.title": "Si Ã¨ verificato un errore durante il salvataggio del formato del bitstream",
+  "bitstream.edit.notifications.error.format.title": "Si è verificato un errore durante il salvataggio del formato del bitstream",
 
   // "bitstream.edit.form.iiifLabel.label": "IIIF Label",
   "bitstream.edit.form.iiifLabel.label": "Etichetta IIIF",
@@ -1168,7 +1168,7 @@
   "bitstream.edit.title": "Modifica bitstream",
 
   // "bitstream-request-a-copy.alert.canDownload1": "You already have access to this file. If you want to download the file, click ",
-  "bitstream-request-a-copy.alert.canDownload1": "Hai giÃ Â accesso a questo file. Se si desidera scaricare il file, fare clic su",
+  "bitstream-request-a-copy.alert.canDownload1": "Hai già accesso a questo file. Se si desidera scaricare il file, fare clic su",
 
   // "bitstream-request-a-copy.alert.canDownload2": "here",
   "bitstream-request-a-copy.alert.canDownload2": "qui",
@@ -1188,7 +1188,7 @@
   "bitstream-request-a-copy.name.label": "Nome *",
 
   // "bitstream-request-a-copy.name.error": "The name is required",
-  "bitstream-request-a-copy.name.error": "Il nome Ã¨ obbligatorio",
+  "bitstream-request-a-copy.name.error": "Il nome è obbligatorio",
 
   // "bitstream-request-a-copy.email.label": "Your e-mail address *",
   "bitstream-request-a-copy.email.label": "Il tuo indirizzo e-mail *",
@@ -1221,7 +1221,7 @@
   "bitstream-request-a-copy.submit.success": "La richiesta di invio Ã¨ stata inviata correttamente.",
 
   // "bitstream-request-a-copy.submit.error": "Something went wrong with submitting the item request.",
-  "bitstream-request-a-copy.submit.error": "Qualcosa Ã¨ andato storto con l'invio della richiesta dell'item.",
+  "bitstream-request-a-copy.submit.error": "Qualcosa è andato storto con l'invio della richiesta dell'item.",
 
 
 
@@ -1354,7 +1354,7 @@
 
   // "browse.startsWith": ", starting with {{ startsWith }}",
   // TODO New key - Add a translation
-  "browse.startsWith": ", starting with {{ startsWith }}",
+  "browse.startsWith": ", starting with {{startsWith}}",
 
   // "browse.startsWith.choose_start": "(Choose start)",
   "browse.startsWith.choose_start": "(Scegli start)",
@@ -1423,10 +1423,10 @@
   "browse.startsWith.type_text": "Per filtrare i risultati inizia a digitare le prime lettere",
 
   // "browse.title": "Browsing {{ collection }} by {{ field }}{{ startsWith }} {{ value }}",
-  "browse.title": "Mostra il contenuto di {{ collection }} per {{ field }}{{ startsWith }} {{ value }}",
+  "browse.title": "Mostra il contenuto di {{collection}} per {{field}} {{startsWith }} {{value}}",
 
   // "browse.title.page": "Browsing {{ collection }} by {{ field }} {{ value }}",
-  "browse.title.page": "Mostra il contenuto di {{ collection }} per {{ field }} {{ value }}",
+  "browse.title.page": "Mostra il contenuto di {{collection}} per {{field}} {{value}}",
 
 
 
@@ -1444,7 +1444,7 @@
   "bulk-import.collection-name" : "Collezione",
 
   // "bulk-import.error": "An error occurred while creating the import process",
-  "bulk-import.error": "Si Ã¨ verificato un errore durante la creazione del processo di importazione",
+  "bulk-import.error": "Si è verificato un errore durante la creazione del processo di importazione",
 
   // "bulk-import.file" : "Source file",
   // TODO New key - Add a translation
@@ -1473,7 +1473,7 @@
   "chips.remove": "Rimuovere il chip",
 
   // "chart.load-more": "Load more results",
-  "chart.load-more": "Carica piÃ¹ risultati",
+  "chart.load-more": "Carica più risultati",
 
 
   // "collection.create.head": "Create a Collection",
@@ -1483,7 +1483,7 @@
   "collection.create.notifications.success": "Creata con successo la collection",
 
   // "collection.create.sub-head": "Create a Collection for Community {{ parent }}",
-  "collection.create.sub-head": "Creare una collection per la Community {{ parent }}",
+  "collection.create.sub-head": "Creare una collection per la Community {{parent}}",
 
   // "collection.curate.header": "Curate Collection: {{collection}}",
   "collection.curate.header": "Curate della collezione: {{collection}}",
@@ -1507,7 +1507,7 @@
   "collection.delete.notification.success": "collection eliminata correttamente",
 
   // "collection.delete.text": "Are you sure you want to delete collection \"{{ dso }}\"",
-  "collection.delete.text": "Sei sicuro di voler eliminare la collection \"{{ dso }}\"",
+  "collection.delete.text": "Sei sicuro di voler eliminare la collection \"{{dso}}\"",
 
 
 
@@ -1631,10 +1631,10 @@
   "collection.edit.tabs.authorizations.title": "Collection Edit - Autorizzazioni",
 
   // "collection.edit.item.authorizations.load-bundle-button": "Load more bundles",
-  "collection.edit.item.authorizations.load-bundle-button": "Carica piÃ¹ bundles",
+  "collection.edit.item.authorizations.load-bundle-button": "Carica più bundles",
 
   // "collection.edit.item.authorizations.load-more-button": "Load more",
-  "collection.edit.item.authorizations.load-more-button": "Carica piÃ¹ risorse",
+  "collection.edit.item.authorizations.load-more-button": "Carica più risorse",
 
   // "collection.edit.item.authorizations.show-bitstreams-button": "Show bitstream policies for bundle",
   // TODO New key - Add a translation
@@ -3607,7 +3607,7 @@
   "item.edit.bitstreams.bundle.load.all": "Carica tutto ({{ total }})",
 
   // "item.edit.bitstreams.bundle.load.more": "Load more",
-  "item.edit.bitstreams.bundle.load.more": "Carica piÃ¹ risorse",
+  "item.edit.bitstreams.bundle.load.more": "Carica più risorse",
 
   // "item.edit.bitstreams.bundle.name": "BUNDLE: {{ name }}",
   "item.edit.bitstreams.bundle.name": "BUNDLE: {{ name }}",
@@ -4243,7 +4243,7 @@
   "item.page.collections.loading": "Caricamento...",
 
   // "item.page.collections.load-more": "Load more",
-  "item.page.collections.load-more": "Carica piÃ¹ risorse",
+  "item.page.collections.load-more": "Carica più risorse",
 
   // "item.page.date": "Date",
   "item.page.date": "Data",
@@ -9346,7 +9346,7 @@
 
 
   // "treeview.load-more": "Load more",
-  "treeview.load-more": "Carica di piÃ¹",
+  "treeview.load-more": "Carica di più",
 
 
 
@@ -9402,7 +9402,7 @@
   "vocabulary-treeview.header": "Visualizzazione gerarchica ad albero",
 
   // "vocabulary-treeview.load-more": "Load more",
-  "vocabulary-treeview.load-more": "Carica di piÃ¹",
+  "vocabulary-treeview.load-more": "Carica di più",
 
   // "vocabulary-treeview.search.form.reset": "Reset",
   "vocabulary-treeview.search.form.reset": "Cancella",
