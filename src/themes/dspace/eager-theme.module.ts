@@ -9,6 +9,7 @@ import { HeaderNavbarWrapperComponent } from './app/header-nav-wrapper/header-na
 import { SearchModule } from '../../app/shared/search/search.module';
 import { RootModule } from '../../app/root.module';
 import { NavbarModule } from '../../app/navbar/navbar.module';
+import { FooterComponent } from './app/footer/footer.component';
 
 /**
  * Add components that use a custom decorator to ENTRY_COMPONENTS as well as DECLARATIONS.
@@ -21,6 +22,7 @@ const DECLARATIONS = [
   ...ENTRY_COMPONENTS,
   HomeNewsComponent,
   HeaderComponent,
+  FooterComponent,
   HeaderNavbarWrapperComponent,
   NavbarComponent,
 ];
