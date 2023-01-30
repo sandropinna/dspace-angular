@@ -61,7 +61,7 @@
   "error-page.description.404": "Pagina non trovata",
 
   // "error-page.orcid.generic-error": "An error occurred during login via ORCID. Make sure you have shared your ORCID account email address with DSpace. If the error persists, contact the administrator",
-  "error-page.orcid.generic-error": "Si Ã¨ verificato un errore con il login via ORCID. Verifica di avere condiviso il tuo account ORCID con DSpace. Se l'errore persiste, contatta l'amministratore",
+  "error-page.orcid.generic-error": "Si è verificato un errore con il login via ORCID. Verifica di avere condiviso il tuo account ORCID con DSpace. Se l'errore persiste, contatta l'amministratore",
 
   // "access-status.embargo.listelement.badge": "Embargo",
   "access-status.embargo.listelement.badge": "Embargo",
