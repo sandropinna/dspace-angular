@@ -56,9 +56,7 @@ import {
 import { ComcolModule } from '../../app/shared/comcol/comcol.module';
 import { RootModule } from '../../app/root.module';
 import { PrivacyComponent } from './app/info/privacy/privacy.component';
-import { PrivacyContentComponent } from './app/info/privacy/privacy-content/privacy-content.component';
 import { EndUserAgreementComponent } from './app/info/end-user-agreement/end-user-agreement.component';
-import { EndUserAgreementContentComponent } from './app/info/end-user-agreement/end-user-agreement-content/end-user-agreement-content.component';
 import { FeedbackComponent } from './app/info/feedback/feedback.component';
 
 
@@ -116,9 +114,7 @@ const DECLARATIONS = [
     ResourcePoliciesModule,
     ComcolModule,
     PrivacyComponent,
-    PrivacyContentComponent,
     EndUserAgreementComponent,
-    EndUserAgreementContentComponent,
     FeedbackComponent,
   ],
   declarations: DECLARATIONS,
