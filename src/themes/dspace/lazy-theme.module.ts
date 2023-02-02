@@ -60,7 +60,7 @@ import { PrivacyContentComponent } from './app/info/privacy/privacy-content/priv
 import { EndUserAgreementComponent } from './app/info/end-user-agreement/end-user-agreement.component';
 import { EndUserAgreementContentComponent } from './app/info/end-user-agreement/end-user-agreement-content/end-user-agreement-content.component';
 import { FeedbackComponent } from './app/info/feedback/feedback.component';
-import { FeedbackFormComponent } from './app/info/feedback/feedback-form/feedback-form.component';
+
 
 
 
@@ -120,7 +120,6 @@ const DECLARATIONS = [
     EndUserAgreementComponent,
     EndUserAgreementContentComponent,
     FeedbackComponent,
-    FeedbackFormComponent
   ],
   declarations: DECLARATIONS,
 })

@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { PrivacyContentComponent as BaseComponent } from '../../../../../../app/info/privacy/privacy-content/privacy-content.component';
 
 @Component({
   selector: 'ds-privacy-content',
@@ -8,5 +9,5 @@ import { Component } from '@angular/core';
 /**
  * Component displaying the contents of the Privacy Statement
  */
-export class PrivacyContentComponent {
+export class PrivacyContentComponent extends BaseComponent{
 }

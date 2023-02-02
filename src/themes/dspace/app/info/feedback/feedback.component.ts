@@ -5,8 +5,8 @@ import { FeedbackComponent as BaseComponent } from '../../../../../app/info/feed
   selector: 'ds-feedback',
   // styleUrls: ['./feedback.component.scss'],
   styleUrls: ['../../../../../app/info/feedback/feedback.component.scss'],
-  templateUrl: './feedback.component.html'
-  //templateUrl: '../../../../../app/info/feedback/feedback.component.html'
+  // templateUrl: './feedback.component.html'
+  templateUrl: '../../../../../app/info/feedback/feedback.component.html'
 })
 
 /**
