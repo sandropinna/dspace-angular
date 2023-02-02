@@ -55,7 +55,7 @@ import {
 } from '../../app/shared/resource-policies/resource-policies.module';
 import { ComcolModule } from '../../app/shared/comcol/comcol.module';
 import { RootModule } from '../../app/root.module';
-import { PrivacyComponent } from './app/info/privacy/privacy.component';
+
 import { EndUserAgreementComponent } from './app/info/end-user-agreement/end-user-agreement.component';
 import { FeedbackComponent } from './app/info/feedback/feedback.component';
 
@@ -113,7 +113,6 @@ const DECLARATIONS = [
     FormsModule,
     ResourcePoliciesModule,
     ComcolModule,
-    PrivacyComponent,
     EndUserAgreementComponent,
     FeedbackComponent,
   ],
